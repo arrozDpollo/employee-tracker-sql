@@ -120,3 +120,4 @@ pg: PostgreSQL client for Node.js to execute queries.
 
 
 ## WalkThrough Video
+https://github.com/arrozDpollo/employee-tracker-sql/blob/main/Shift%20Tracker%20Employee.mp4
